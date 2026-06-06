@@ -1,0 +1,52 @@
+# Geotechnik — Dorsten
+
+> Geotechnical engineering services in Dorsten, Deutschland.
+
+## Services
+- [Anker](https://dorsten.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://dorsten.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://dorsten.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://dorsten.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://dorsten.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://dorsten.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://dorsten.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://dorsten.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://dorsten.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://dorsten.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://dorsten.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://dorsten.geotechnik.sbs/fundamente/)
+- [Geophysik](https://dorsten.geotechnik.sbs/geophysik/)
+- [Grundungen](https://dorsten.geotechnik.sbs/grundungen/)
+- [Hange](https://dorsten.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://dorsten.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://dorsten.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://dorsten.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://dorsten.geotechnik.sbs/labor/)
+- [Labor In Situ](https://dorsten.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://dorsten.geotechnik.sbs/masw/)
+- [Pfahle](https://dorsten.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://dorsten.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://dorsten.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://dorsten.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://dorsten.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://dorsten.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://dorsten.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://dorsten.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://dorsten.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://dorsten.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://dorsten.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://dorsten.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://dorsten.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://dorsten.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://dorsten.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://dorsten.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://dorsten.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://dorsten.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://dorsten.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://dorsten.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Dorsten, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
